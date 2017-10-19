@@ -3,4 +3,4 @@ sudo: false
 language: cpp
 
 script:
-  - clang++ -std=c++14 -stdlib=libc++ a1-solutions.cpp
+  - clang++ -std=c++14 -stdlib=libc++ a1-solution.cpp
