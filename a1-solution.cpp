@@ -1,4 +1,4 @@
-#include "a1_solution.hpp"
+#include "a1-solution.hpp"
 #include <cmath>
 
 // User constants

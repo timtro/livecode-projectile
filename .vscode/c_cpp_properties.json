@@ -8,6 +8,7 @@
         "/usr/local/include",
         "/usr/include/c++/7",
         "/usr/include/x86_64-linux-gnu",
+        "/usr/include/x86_64-linux-gnu/c++/7",
         "${workspaceRoot}"
       ],
       "defines": [],
